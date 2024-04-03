@@ -1,0 +1,6 @@
+GlucoseLevel,TimeSinceLastMeal,CarbsIntake,InsulinAdministered,PhysicalActivityLevel,Temperature,Gender,Age,TimeOfDay,PreviousGlucoseLevels
+150,2.0,50,4.0,6,70,Male,29,Afternoon,"120,130,140"
+180,3.0,30,5.0,7,75,Female,34,Morning,"160,170,165"
+160,4.0,45,3.0,5,65,Male,45,Evening,"150,145,155"
+200,1.0,60,6.0,8,80,Female,28,Night,"190,195,185"
+190,2.5,40,4.5,7,72,Male,50,Afternoon,"175,180,185"
